@@ -118,8 +118,13 @@
               "devServerTarget": "game-of-the-year:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "game-of-the-year"
 }

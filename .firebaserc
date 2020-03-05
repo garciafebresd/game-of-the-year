@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "game-of-the-year-88c0f": {
+      "hosting": {
+        "game-of-the-year": [
+          "game-of-the-year-88c0f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "game-of-the-year-88c0f"
+  }
+}
